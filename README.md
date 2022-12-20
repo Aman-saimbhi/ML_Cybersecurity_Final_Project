@@ -4,6 +4,4 @@ All the code used for implementation, experimentation, and exploration can be fo
 
 Team members:
 
-Amanpreet Singh Saimbhi
-Mudit Saxena
-Pratap Narra
+Amanpreet Singh Saimbhi | Mudit Saxena | Pratap Narra
